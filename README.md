@@ -1,4 +1,1 @@
-# Devops Hometask7
-
-## Usage:
-*** vagrant up ***
+# lab7
